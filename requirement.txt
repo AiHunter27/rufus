@@ -1,0 +1,4 @@
+playwright==1.39.0
+beautifulsoup4==4.12.2
+ollama
+asyncio==3.4.3
